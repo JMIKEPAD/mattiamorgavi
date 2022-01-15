@@ -1,0 +1,170 @@
+
+.div-header-image-logo{
+text-align: center;
+padding: 40px;
+}
+.image-header-logo{
+    margin-top: 85px;
+
+}
+.line-page-title {
+    
+        width: 40px;
+        height: 1px;
+        background-color: #252525;
+        margin: 0px auto;
+    
+    }
+a{
+    text-decoration: none;
+    color: #7a7a7a;
+    padding: 25px;
+}
+    .nav-menu{
+        color:#7a7a7a ;
+        text-align: center;
+    }
+    .line-nav-menu{
+        background-color: #dfdfdf;
+        position: relative;
+        bottom: 10px;
+        right: 270px;
+        display: block;
+        height: 1px;
+        width: 25px;
+        margin: auto;
+    
+    }
+    .line-nav-menu2{
+        background-color: #dfdfdf;
+        position: relative;
+        bottom: 13px;
+        right: 133px;
+        display: block;
+        height: 1px;
+        width: 25px;
+        margin: auto;
+    
+    }  
+    .line-nav-menu3{
+        background-color: #dfdfdf;
+        position: relative;
+        bottom: 16px;
+       left: 8px;
+        display: block;
+        height: 1px;
+        width: 25px;
+        margin: auto;
+    
+    } 
+    .line-nav-menu4{
+        background-color: #dfdfdf;
+        position: relative;
+        bottom: 20px;
+        left: 132px;
+        display: block;
+        height: 1px;
+        width: 25px;
+        margin: auto;
+    
+    } 
+    .line-nav-menu5{
+        background-color: #dfdfdf;
+        position: relative;
+        bottom: 22px;
+        left: 230px;
+        display: block;
+        height: 1px;
+        width: 25px;
+        margin: auto;
+    
+    } 
+    .line-nav-menu6{
+        background-color: #dfdfdf;
+        position: relative;
+        bottom: 25px;
+        left: 358px;
+        display: block;
+        height: 1px;
+        width: 25px;
+        margin: auto;
+    
+    } 
+    /* regole per le linee del menù di navigazione */
+    section {
+        max-width: 800px;
+        margin: auto;
+        padding: 8px;
+    }
+    .page-title{
+        font-size: 26px;
+        text-align: center;
+    }
+    .homepage-text{
+        text-align: center;
+       font-size: 15px; 
+    }
+    
+    
+    .image-room{      
+        text-align: center;
+    }
+    .image-room-1{
+        width: 50%;
+        margin: 25px;
+    }
+    
+    .div-location{
+        border-style: solid;
+        border-color: #dbdbdb;
+        min-height: 374px;
+        border-width: 1px;
+        max-width: 230px;
+        padding: 10px;
+        float: left;
+margin: 5px;
+
+
+    }
+    .div-technical-data{
+        border-style: solid;
+        border-color: #dbdbdb;
+        min-height: 374px;
+        border-width: 1px;
+        max-width: 230px;
+        padding: 10px;
+        margin: 5px;
+    float: left;
+
+    }
+    .div-rooms-pose{
+        border-style: solid;
+        border-color: #dbdbdb;
+        min-height: 374px;
+        border-width: 1px;
+        max-width: 230px;
+        padding: 10px;
+       margin: 5px;
+       float: right;
+    }
+
+    footer{
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        
+    }
+.footer-link{
+    text-align: left;
+}
+    .link-image{
+        width: 20px;
+        
+    }
+    .blank-space{
+        background-color: white;
+        color: white;
+    }
+    .image-paragraph{
+        width: 33%;
+    }
