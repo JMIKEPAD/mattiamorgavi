@@ -1,4 +1,7 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&family=Raleway:ital,wght@0,300;1,300&display=swap');
+body {
+    font-family: 'Raleway', sans-serif;
+}
 .div-header-image-logo{
 text-align: center;
 padding: 40px;
@@ -99,10 +102,16 @@ a{
     .page-title{
         font-size: 26px;
         text-align: center;
+
+    }
+    h1 {
+        font-family: Playfair Display;
+        font-weight: 400;
+        font-style: italic;
     }
     .homepage-text{
         text-align: center;
-       font-size: 15px; 
+       font-size: 20px; 
     }
     
     
@@ -120,9 +129,9 @@ a{
         min-height: 374px;
         border-width: 1px;
         max-width: 230px;
-        padding: 10px;
+        padding: 5px;
         float: left;
-margin: 5px;
+margin: 10px;
 
 
     }
@@ -133,7 +142,7 @@ margin: 5px;
         border-width: 1px;
         max-width: 230px;
         padding: 10px;
-        margin: 5px;
+        margin: 10px;
     float: left;
 
     }
@@ -166,5 +175,6 @@ margin: 5px;
         color: white;
     }
     .image-paragraph{
-        width: 33%;
+       margin: 30px;
+        width: 25%;
     }
